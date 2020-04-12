@@ -1,0 +1,20 @@
+{
+   "background": {
+      "scripts": [ "translator_helper.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/icon48x48.png"
+   },
+   "description": "Anque translator provides an easier and less interruptive way to translate during browsing web pages.",
+   "icons": {
+      "128": "icons/icon128x128.png",
+      "16": "icons/icon16x16.png",
+      "48": "icons/icon48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApFu7q8rv5BdrFZ5Hno8Ni//xQmKLGCzVZb5pYcCJRqPeRNmFt5iDONk9aq0i23t5+bGvRhSe8udNt6/14gjNBFN8J6rZXWJfKw1OPgLaAWmEbGotygckgBOcq5tTX+vQC0LyRdVaPlnooAX5JumZAcep5rAFYcUkupST/1q2EbEo95m/t4Tcafc4JGbdM3ELNRMVKOLLAOTKyiplDttHGjbvp2dcRruvKwW2InlEMZiKFubN4fCo7WiH9DAzcUBKaozjaMtxEDfP02DZIUW8hMILQ2HUDMX+tRClgRSIDEf4n3Ubr58FKOU0r+fL2xh/kYR0Im88w5w/34J5c7UjDwIDAQAB",
+   "manifest_version": 2,
+   "name": "Anque translator",
+   "permissions": [ "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}
